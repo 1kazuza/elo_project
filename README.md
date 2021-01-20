@@ -1,4 +1,4 @@
-# The_Elo_Project
+# The Elo Project
 
 This is a project for a simple software that helps sports bettors to create 
 a power ranking of soccer("football") teams. All functionalities may be 
